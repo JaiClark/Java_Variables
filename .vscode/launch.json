@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ByteShortInt",
+            "request": "launch",
+            "mainClass": "ByteShortInt"
+        }
+    ]
+}
